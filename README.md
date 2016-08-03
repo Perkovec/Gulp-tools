@@ -10,6 +10,7 @@ Must have gulp modules
 - [gulp-modernizr](https://github.com/doctyper/gulp-modernizr) - wrapper for custom Modernizr builds
 - [gulp-babel](https://github.com/babel/gulp-babel) - compiler for writing next generation JavaScript
 - [gulp-jscs](https://github.com/jscs-dev/gulp-jscs) - code style linter and formatter for your style guide
+- [gulp-ng-annotate](https://github.com/Kagami/gulp-ng-annotate) - [AngularJS](https://github.com/angular/angular.js) dependency injection annotations 
 
 ## HTML
 - [gulp-useref](https://github.com/jonkemp/gulp-useref) - parse build blocks in HTML files to replace references to non-optimized scripts or stylesheets
@@ -43,3 +44,4 @@ Must have gulp modules
 - [gulp-cache](https://github.com/jgable/gulp-cache) - temp file based caching proxy task
 - [gulp-changed](https://github.com/sindresorhus/gulp-changed) - only pass through changed files
 - [gulp-notify](https://github.com/mikaelbr/gulp-notify) - send messages to Mac Notification Center, Linux notifications or Windows (using native toaster) or Growl as fallback
+- [gulp-shell](https://github.com/sun-zheng-an/gulp-shell) - handy command line interface
